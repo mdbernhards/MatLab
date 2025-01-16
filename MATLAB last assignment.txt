@@ -1,0 +1,28 @@
+MATLAB last assignment
+
+I(0) = 0 A
+I'(0) = 4 A/s
+
+d^2I/dt^2 = -R/L * dI/dt - 1/LC
+
+Schedule: 
+MATLAB:
+   week 6 - Oct 20 
+   exam - oct 24 11.30 E0.86
+
+Databases:
+	All phases FIFA - oct 25 17.00
+	sign off triggers?
+
+APC:
+	Assignment 4 - oct 27
+	Assignment 5 - nov 10
+	Assignment 6 - nov 17
+
+SET:
+	Assignment 4 - oct 20
+	Assignment 5 - oct 27
+	Assignment 6 - nov 10
+	Assignment 7 - nov 17
+
+PPD: ????
